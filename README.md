@@ -28,8 +28,8 @@ A Python script to automate repetitive rebirth tasks in the Roblox game **Miners
 ### 1. Clone the Repository
 ```bash
 # Clone the GitHub repository
-git clone https://github.com/wittenpan/miners-haven-rebirth.git
-cd miners-haven-rebirth
+git clone https://github.com/wittenpan/miners-haven-rebirth-macro.git
+cd miners-haven-rebirth-macro
 ```
 
 ### 2. Create a Virtual Environment
